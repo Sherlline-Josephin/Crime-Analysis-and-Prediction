@@ -41,11 +41,12 @@ In this module, the data undergoes pre-processing like cleaning the dataset and 
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/109158067/227698078-a396e90f-d699-4b28-ae88-53351cff4765.png)
-![image](https://user-images.githubusercontent.com/109158067/227698100-87633211-6e74-4d18-a5d0-919a0f670802.png)
-![image](https://user-images.githubusercontent.com/109158067/227698109-911f6fb5-b07c-4f2b-8669-652b832765fc.png)
-![image](https://user-images.githubusercontent.com/109158067/227698118-e808c298-ccd7-42b0-94d6-ad23d0737513.png)
-![image](https://user-images.githubusercontent.com/109158067/227698130-16c4c0e2-09b8-4ac6-976b-d0bc549fb08b.png)
-![image](https://user-images.githubusercontent.com/109158067/227698138-4bf39983-9998-442c-b531-7b95fd5ccb82.png)
+![image](https://user-images.githubusercontent.com/109158067/227698171-dba3684a-b452-4782-aa34-58e0f47bac2e.png)
+![image](https://user-images.githubusercontent.com/109158067/227698190-bd5068a3-1c5e-40bb-a6c8-77c2a74d8e71.png)
+![image](https://user-images.githubusercontent.com/109158067/227698203-87d061d1-33c1-4fb1-91c5-b43dd3e6b876.png)
+![image](https://user-images.githubusercontent.com/109158067/227698221-fe28cb16-52fb-45ba-9826-5309e95881de.png)
+![image](https://user-images.githubusercontent.com/109158067/227698226-280b900d-37c8-4a91-ae12-4a26f65cba9f.png)
+![image](https://user-images.githubusercontent.com/109158067/227698236-a210e3de-20d7-4c23-a27a-dcb94260cf17.png)
+
 
 
